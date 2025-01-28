@@ -34,6 +34,8 @@ include_once ("./asset/image/data.php")
   </div>
 </div>
 
+<a href="contact.php" target="_blank">Contact</a>
+
 <?php
 include_once ("footer.php");
 ?>
